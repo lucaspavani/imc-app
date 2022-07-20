@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">imc-app</string>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_text">BMI</string>
+    <string name="insert_weight_text">Insert your weight (Kg)</string>
+
+    <string name="insert_your_height_text">Insert your height (cm)</string>
+    <string name="calculate_button">Calculate</string>
 </resources>
